@@ -8,7 +8,8 @@ const Container = styled.div`
   box-shadow: 0 3px 6px #00000029;
   margin: auto;
   margin-top: 50px;
-  width: 448px;
+  max-width: 448px;
+  width: 100%;
   padding: 30px;
   border: 1px solid #000000;
 
